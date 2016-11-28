@@ -1,0 +1,17 @@
+{
+  "name": "railwayjs",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "data.maybe": "^1.2.2",
+    "data.validation": "^1.3.1",
+    "data.either": "^1.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
